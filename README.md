@@ -17,7 +17,7 @@ but the choice is yours.
 
 ## Configuration
 
-You can create a ~/.alohomora file to configure the tool.  It will store
+You can create a ~/.alohomora.log file to configure the tool.  It will store
 infomation like the URL of your SAML Identity Provider that shouldn't change
 very often.  Alternately, you can specify any config option on the command line
 as well.
